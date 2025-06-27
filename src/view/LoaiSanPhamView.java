@@ -3,6 +3,7 @@ package view;
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 import javax.swing.border.AbstractBorder; // For RoundedCornerBorder
+import javax.swing.border.EmptyBorder; // For EmptyBorder
 import javax.swing.border.TitledBorder; // For TitledBorder styling
 import java.awt.*;
 import java.awt.event.ActionListener;
